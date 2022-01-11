@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewbox="0 0 200 200"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-music.svg"
+   width="16"
+   height="16"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="17.081048"
+     inkscape:cx="22.773778"
+     inkscape:cy="14.372654"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     showguides="false" />
+  <path
+     id="path847"
+     style="fill:#363636;fill-opacity:1;stroke-width:1.00003;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8.5,1 C 8.22385,1 8,1.2238503 8,1.5 V 8.357422 C 7.241248,7.4952422 6.1485022,7.0008029 5,7 2.790861,7 1,8.790861 1,11 c 0,2.209139 1.790861,4 4,4 2.209139,0 4,-1.790861 4,-4 V 2 c 2.860581,0.018435 4.999063,2.2285786 5,5.5 C 14,7.776149 14.22385,8 14.5,8 14.77615,8 15,7.776149 15,7.5 15.0047,3.3655136 11.846257,1 9,1 Z M 5,8 C 6.6568542,8 8,9.343146 8,11 8,12.656854 6.6568542,14 5,14 3.3431458,14 2,12.656854 2,11 2,9.343146 3.3431458,8 5,8 Z"
+     sodipodi:nodetypes="ssccsssccscsssssss" />
+</svg>
