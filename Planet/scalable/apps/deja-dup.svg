@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewbox="0 0 200 200"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="deja-dup.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.95"
+     inkscape:cx="31.969112"
+     inkscape:cy="32.007722"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     showguides="true" />
+  <path
+     d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
+     id="path2"
+     style="stroke-width:0.3;fill:#808080;fill-opacity:1;stroke:none" />
+  <path
+     id="rect933"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="m 17,14 c -2.216,0 -4,1.784 -4,4 v 24 h 2 V 18 c 0,-1.108 0.892,-2 2,-2 h 32 v 10 h 2 V 14 Z m 2,26 v 2 h 13 v -2 z"
+     sodipodi:nodetypes="ssccssccccsccccc" />
+  <path
+     d="m 10,46 v 2 h 22 v -2 z"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="path1172"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 36,30 v 2 h 3.056641 C 36.517224,33.876647 35.013336,36.842427 35,40 c 0,5.522847 4.477153,10 10,10 5.522847,0 10,-4.477153 10,-10 -5.15e-4,-4.751512 -3.344488,-8.846573 -8,-9.796875 v 2.052734 c 3.531489,0.911827 5.999168,4.096834 6,7.744141 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0.0085,-2.84958 1.532173,-5.479513 4,-6.904297 V 37 h 2 V 32 30.964844 C 42.98184,30.439681 42.560319,30.01816 42.035156,30 H 41 Z"
+     style="fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="path923" />
+</svg>

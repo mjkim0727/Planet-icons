@@ -22,29 +22,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="6.0390625"
-     inkscape:cx="88.921087"
-     inkscape:cy="-13.661061"
+     inkscape:zoom="11.313708"
+     inkscape:cx="31.819807"
+     inkscape:cy="37.432467"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     showguides="true" />
+     showguides="false" />
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
-     style="stroke-width:0.3;fill:#999999;fill-opacity:1;stroke:none" />
-  <circle
-     style="fill:#666666;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     id="path1032"
-     cx="20"
-     cy="19"
-     r="5" />
+     style="stroke-width:0.3;fill:#999999;fill-opacity:1" />
   <path
-     id="rect1268"
+     id="rect843"
      style="fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     d="m 51,41 v 4 c 0,3.324 -2.676,6 -6,6 H 19 c -3.324,0 -6,-2.676 -6,-6 l 9,-10 9,8 10,-14 z"
-     sodipodi:nodetypes="csssscccc" />
+     d="M 15 13 C 13.892 13 13 13.892 13 15 L 13 51 L 15 51 L 15 15 L 51 15 L 51 13 L 15 13 z M 24 19 A 5 5 0 0 0 19 24 A 5 5 0 0 0 24 29 A 5 5 0 0 0 29 24 A 5 5 0 0 0 24 19 z M 24 21 A 3 3 0 0 1 27 24 A 3 3 0 0 1 24 27 A 3 3 0 0 1 21 24 A 3 3 0 0 1 24 21 z M 49 22 L 49 35.179688 L 44.40625 30.587891 C 44.01451 30.196151 43.503424 30 42.992188 30 C 42.48095 30 41.969865 30.19615 41.578125 30.587891 L 32.587891 39.578125 L 34.001953 40.992188 L 42.992188 32.001953 L 49 38.007812 L 49 46 C 49 47.662 47.662 49 46 49 L 22.5 49 C 21.671573 49 20.992188 48.308896 20.992188 47.480469 C 20.999488 47.088335 21.160002 46.714641 21.439453 46.439453 L 34.052734 33.828125 L 32.638672 32.414062 L 20.025391 45.025391 C 19.392015 45.658766 19 46.533501 19 47.5 C 19 49.432997 20.567003 51 22.5 51 L 46 51 C 48.77 51 51 48.77 51 46 L 51 22 L 49 22 z " />
 </svg>
