@@ -3,7 +3,7 @@
    viewbox="0 0 200 200"
    version="1.1"
    id="svg4"
-   sodipodi:docname="system-users.svg"
+   sodipodi:docname="quadrapassel.svg"
    width="64"
    height="64"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
@@ -22,9 +22,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="8.875"
-     inkscape:cy="44.0625"
+     inkscape:zoom="4"
+     inkscape:cx="28.75"
+     inkscape:cy="29.875"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
@@ -35,9 +35,15 @@
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
-     style="opacity:1;fill:#2f9cf5;fill-opacity:1;stroke:none;stroke-width:0.3" />
+     style="stroke-width:0.3;fill:#4d4d4d;fill-opacity:1" />
   <path
-     id="path2315"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:1.16666"
-     d="M 32 14 A 8 8 0 0 0 24 22 A 8 8 0 0 0 32 30 A 8 8 0 0 0 40 22 A 8 8 0 0 0 32 14 z M 32 16 A 6 6 0 0 1 38 22 A 6 6 0 0 1 32 28 A 6 6 0 0 1 26 22 A 6 6 0 0 1 32 16 z M 32 34 C 23.71573 34 17 40.71573 17 49 L 19 49 L 45 49 L 46 49 L 47 49 C 47 40.71573 40.28427 34 32 34 z M 32 36 C 38.499716 36 43.883868 40.769617 44.845703 47 L 19.154297 47 C 20.116132 40.769617 25.500284 36 32 36 z " />
+     id="rect18389"
+     style="fill:#e13535;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 12,43 H 22 V 33 H 32 V 43 H 42 V 53 H 12 Z"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     id="rect18963"
+     style="fill:#e191ef;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 22,13 H 52 V 33 H 42 V 23 H 22 Z"
+     sodipodi:nodetypes="ccccccc" />
 </svg>

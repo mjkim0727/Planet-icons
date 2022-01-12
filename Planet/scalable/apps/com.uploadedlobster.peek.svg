@@ -3,7 +3,7 @@
    viewbox="0 0 200 200"
    version="1.1"
    id="svg4"
-   sodipodi:docname="system-users.svg"
+   sodipodi:docname="com.uploadedlobster.peek.svg"
    width="64"
    height="64"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
@@ -22,22 +22,27 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="8.875"
-     inkscape:cy="44.0625"
+     inkscape:zoom="9.1098924"
+     inkscape:cx="26.893841"
+     inkscape:cy="37.486722"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     showguides="true" />
+     showguides="false" />
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
-     style="opacity:1;fill:#2f9cf5;fill-opacity:1;stroke:none;stroke-width:0.3" />
+     style="stroke-width:0.3;fill:#e69720;fill-opacity:1" />
   <path
-     id="path2315"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:1.16666"
-     d="M 32 14 A 8 8 0 0 0 24 22 A 8 8 0 0 0 32 30 A 8 8 0 0 0 40 22 A 8 8 0 0 0 32 14 z M 32 16 A 6 6 0 0 1 38 22 A 6 6 0 0 1 32 28 A 6 6 0 0 1 26 22 A 6 6 0 0 1 32 16 z M 32 34 C 23.71573 34 17 40.71573 17 49 L 19 49 L 45 49 L 46 49 L 47 49 C 47 40.71573 40.28427 34 32 34 z M 32 36 C 38.499716 36 43.883868 40.769617 44.845703 47 L 19.154297 47 C 20.116132 40.769617 25.500284 36 32 36 z " />
+     id="rect843"
+     style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="m 15,13 c -1.108,0 -2,0.892 -2,2 v 36 h 2 V 15 h 36 v -2 z m 34,5 v 28 c 0,1.662 -1.338,3 -3,3 H 18.5 v 2 H 46 c 2.77,0 5,-2.23 5,-5 V 18 Z"
+     sodipodi:nodetypes="sscccccscssccsscc" />
+  <path
+     id="rect1641"
+     style="fill:#ffffff;stroke-width:2;stroke-linecap:round"
+     d="M 20 20 L 20 25 L 22 25 L 22 22 L 25 22 L 25 20 L 20 20 z M 39 20 L 39 22 L 42 22 L 42 25 L 44 25 L 44 20 L 39 20 z M 20 39 L 20 44 L 25 44 L 25 42 L 22 42 L 22 39 L 20 39 z M 42 39 L 42 42 L 39 42 L 39 44 L 44 44 L 44 39 L 42 39 z " />
 </svg>
