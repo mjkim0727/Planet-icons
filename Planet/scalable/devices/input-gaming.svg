@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewbox="0 0 200 200"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="input-gaming.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="11"
+     inkscape:cy="28.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     showguides="false" />
+  <path
+     d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
+     id="path2"
+     style="stroke-width:0.3;fill:#777c8f;fill-opacity:1" />
+  <path
+     id="path2678"
+     style="color:#000000;fill:#ffffff;stroke:none;stroke-width:4.00001;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 21 18 C 16.157521 17.97147 13.404045 21.428953 13 26 L 12.001953 43.904297 C 11.918763 45.661667 13.981523 46.664526 15.310547 45.511719 L 22.273438 37.96875 L 32 37.96875 L 41.726562 37.96875 L 48.689453 45.511719 C 50.018477 46.664526 52.081237 45.661667 51.998047 43.904297 L 51 26 C 50.595955 21.428953 47.842479 17.97147 43 18 L 32 18 L 21 18 z M 21 20 L 32 20 L 43 20 C 47.338901 19.94133 48.65491 23.443363 49 26 L 50.308594 43.291016 C 50.357644 44.059265 49.68363 44.1404 49.320312 43.757812 L 42.753906 35.96875 L 32 35.96875 L 21.246094 35.96875 L 14.679688 43.757812 C 14.316369 44.1404 13.642356 44.059265 13.691406 43.291016 L 15 26 C 15.34509 23.443363 16.661099 19.94133 21 20 z M 22 24 L 22 27 L 19 27 L 19 29 L 22 29 L 22 32 L 24 32 L 24 29 L 27 29 L 27 27 L 24 27 L 24 24 L 22 24 z M 38.5 24 A 1.5001875 1.4998986 0 0 0 37 25.5 A 1.5001875 1.4998986 0 0 0 38.5 27 A 1.5001875 1.4998986 0 0 0 40 25.5 A 1.5001875 1.4998986 0 0 0 38.5 24 z M 43.5 29 A 1.4998125 1.5001014 0 0 0 42 30.5 A 1.4998125 1.5001014 0 0 0 43.5 32 A 1.4998125 1.5001014 0 0 0 45 30.5 A 1.4998125 1.5001014 0 0 0 43.5 29 z " />
+</svg>
