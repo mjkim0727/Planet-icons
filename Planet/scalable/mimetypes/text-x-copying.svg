@@ -3,7 +3,7 @@
    viewbox="0 0 200 200"
    version="1.1"
    id="svg4"
-   sodipodi:docname="text-x-copying.svg"
+   sodipodi:docname="gnome-mime-text-x-copying.svg"
    width="64"
    height="64"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
@@ -23,7 +23,7 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="11.527353"
-     inkscape:cx="43.722092"
+     inkscape:cx="43.722093"
      inkscape:cy="30.319189"
      inkscape:window-width="1920"
      inkscape:window-height="996"
@@ -35,15 +35,9 @@
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
-     style="stroke-width:0.3;fill:#f9f9f9;fill-opacity:1;stroke:none" />
-  <circle
-     style="fill:#d4cfc9;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     id="path845"
-     cx="32"
-     cy="32"
-     r="19" />
+     style="stroke-width:0.3;fill:#fafafa;fill-opacity:1;stroke:none" />
   <path
-     id="path5046"
-     style="fill:#8a7e75;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     d="M 32 20 A 12 12 0 0 0 20 32 A 12 12 0 0 0 32 44 A 12 12 0 0 0 40.462891 40.462891 L 38.347656 38.347656 A 9 9 0 0 1 32 41 A 9 9 0 0 1 23 32 A 9 9 0 0 1 32 23 A 9 9 0 0 1 38.363281 25.636719 L 40.484375 23.515625 A 12 12 0 0 0 32 20 z " />
+     id="path845"
+     style="fill:#9f9f9f;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="M 32 13 A 19 19 0 0 0 13 32 A 19 19 0 0 0 32 51 A 19 19 0 0 0 51 32 A 19 19 0 0 0 32 13 z M 32 15 A 17 17 0 0 1 49 32 A 17 17 0 0 1 32 49 A 17 17 0 0 1 15 32 A 17 17 0 0 1 32 15 z M 32 20 A 12 12 0 0 0 20 32 A 12 12 0 0 0 32 44 A 12 12 0 0 0 40.462891 40.462891 L 38.347656 38.347656 A 9 9 0 0 1 32 41 A 9 9 0 0 1 23 32 A 9 9 0 0 1 32 23 A 9 9 0 0 1 38.363281 25.636719 L 40.484375 23.515625 A 12 12 0 0 0 32 20 z " />
 </svg>

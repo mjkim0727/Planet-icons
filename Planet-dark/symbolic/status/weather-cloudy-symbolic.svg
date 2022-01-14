@@ -1,1 +1,43 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M8.64 1.668C6.482 1.67 4.648 2.999 3.772 4.9l-.061.13-.139.01C1.578 5.184 0 6.91 0 9.008 0 11.201 1.716 13 3.838 13h9.284C14.714 13 16 11.65 16 10.012a2.958 2.958 0 0 0-1.805-2.735l-.137-.058-.01-.149c-.135-2.993-2.487-5.4-5.404-5.402zm0 1c2.368.002 4.292 1.952 4.405 4.447v.01l.051.776.703.297a1.944 1.944 0 0 1 1.195 1.814c.01 1.114-.845 1.988-1.87 1.988H3.837C2.281 12 .999 10.68.999 9.008c0-1.597 1.185-2.866 2.645-2.973l.723-.05.31-.662v-.004c.728-1.58 2.213-2.65 3.961-2.65z" fill="#dedede" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;-inkscape-font-specification:sans-serif;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" color="#000"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="weather-cloudy-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="16px"
+     inkscape:zoom="24.890159"
+     inkscape:cx="3.0534156"
+     inkscape:cy="8.9392759"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="path846"
+     style="fill:#dedede;fill-opacity:1;stroke-width:0.463021;stroke-linejoin:round"
+     d="M 2.6458333,0.79374999 A 1.3229166,1.3229166 0 0 0 1.7125569,1.1833903 L 1.8975586,1.3683919 A 1.0583333,1.0583333 0 0 1 2.6458333,1.0583333 1.0583333,1.0583333 0 0 1 3.7041666,2.1166666 1.0583333,1.0583333 0 0 1 2.6458333,3.175 H 1.190625 A 0.6614583,0.6614583 0 0 1 0.52916666,2.5135416 0.6614583,0.6614583 0 0 1 1.190625,1.8520833 0.6614583,0.6614583 0 0 1 1.8520833,2.5135416 H 2.1166666 A 0.92604163,0.9260416 0 0 0 1.190625,1.5875 0.92604163,0.9260416 0 0 0 0.26458333,2.5135416 0.92604163,0.9260416 0 0 0 1.190625,3.4395833 H 2.6458333 A 1.3229166,1.3229166 0 0 0 3.96875,2.1166666 1.3229166,1.3229166 0 0 0 2.6458333,0.79374999 Z" />
+</svg>
