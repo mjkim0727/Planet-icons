@@ -24,20 +24,21 @@
      inkscape:document-units="px"
      showgrid="false"
      units="in"
-     inkscape:zoom="52.25"
-     inkscape:cx="6.7751196"
-     inkscape:cy="5.5406699"
+     inkscape:zoom="32"
+     inkscape:cx="4.3125"
+     inkscape:cy="8.390625"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg11945" />
+     inkscape:current-layer="svg11945"
+     showguides="false" />
   <defs
      id="defs11942" />
   <path
-     id="rect923"
-     style="opacity:1;fill:#363636;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 3 1 C 1.8919999 1 1 1.8919999 1 3 L 1 9 C 1 10.108 1.8919999 11 3 11 L 4 11 L 4 15 L 7 11 L 13 11 C 14.108 11 15 10.108 15 9 L 15 3 C 15 1.8919999 14.108 1 13 1 L 3 1 z M 6 2 L 7 2 L 7 4.0273438 L 8 4.0273438 L 8 2 L 9 2 L 9 4.0273438 L 10 4.0273438 L 10 5.0273438 L 9 5.0273438 L 9 6 L 10 6 L 10 7 L 9 7 L 9 9 L 8 9 L 8 7 L 7 7 L 7 9 L 6 9 L 6 7 L 5 7 L 5 6 L 6 6 L 6 5.0273438 L 5 5.0273438 L 5 4.0273438 L 6 4.0273438 L 6 2 z M 7 5.0273438 L 7 6 L 8 6 L 8 5.0273438 L 7 5.0273438 z "
+     id="path1115"
+     style="color:#000000;fill:#363636;stroke-width:3.77953;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+     d="M 1.9746094 1 C 1.4343862 1.0136867 1 1.4564784 1 2 L 1 14.498047 C 0.99907504 14.888836 1.4260903 15.129196 1.7597656 14.925781 L 6.640625 12 L 13 12 A 2.0000001 2.0000001 0 0 0 15 10 L 15 2 C 15 1.4478511 14.552149 1 14 1 L 2 1 C 1.9913727 1 1.9831843 0.99978275 1.9746094 1 z M 2 2 L 14 2 L 14 10 A 1.0000001 1.0000001 0 0 1 13 11 L 7 11 C 6.4853996 11.004 6.1458447 11.134335 5.75 11.375 L 2 13.613281 L 2 2 z M 6.5 3.5 L 6.5 4.5 L 5.5 4.5 L 5.5 5.5 L 6.5 5.5 L 6.5 7.5 L 5.5 7.5 L 5.5 8.5 L 6.5 8.5 L 6.5 9.5 L 7.5 9.5 L 7.5 8.5 L 8.5 8.5 L 8.5 9.5 L 9.5 9.5 L 9.5 8.5 L 10.5 8.5 L 10.5 7.5 L 9.5 7.5 L 9.5 5.5 L 10.5 5.5 L 10.5 4.5 L 9.5 4.5 L 9.5 3.5 L 8.5 3.5 L 8.5 4.5 L 7.5 4.5 L 7.5 3.5 L 6.5 3.5 z M 7.5 5.5 L 8.5 5.5 L 8.5 7.5 L 7.5 7.5 L 7.5 5.5 z "
      transform="scale(0.26458333)" />
 </svg>
