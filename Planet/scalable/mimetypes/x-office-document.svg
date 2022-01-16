@@ -3,7 +3,7 @@
    viewbox="0 0 200 200"
    version="1.1"
    id="svg4"
-   sodipodi:docname="x-office-document.svg"
+   sodipodi:docname="application-vnd.google-apps.document.svg"
    width="64"
    height="64"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
@@ -23,10 +23,10 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="9.2365823"
-     inkscape:cx="26.091902"
-     inkscape:cy="35.998163"
+     inkscape:cx="24.57619"
+     inkscape:cy="38.596527"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -35,15 +35,14 @@
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
-     style="stroke-width:0.3;fill:#2b85ec;fill-opacity:1;stroke:none" />
+     style="stroke-width:0.3;fill:#5290d6;fill-opacity:1;stroke:none" />
   <path
      id="rect843"
      style="fill:#ffffff;stroke-width:3.61814;stroke-linecap:round;stroke-linejoin:round"
-     d="m 12,16 v 3 h 14 v -3 z m 0,7 v 3 h 14 v -3 z m 0,7 v 3 h 14 v -3 z m 0,7 v 3 h 40 v -3 z m 0,8 v 3 h 26 v -3 z"
+     d="m 12,18 v 2 h 16 v -2 z m 0,6 v 2 h 16 v -2 z m 0,6 v 2 h 16 v -2 z m 0,7 v 2 h 40 v -2 z m 0,7 v 2 h 26 v -2 z"
      sodipodi:nodetypes="ccccccccccccccccccccccccc" />
   <path
-     d="m 33,16 c -1.662,0 -3,1.338 -3,3 v 12 c 0,1.662 1.338,3 3,3 h 16 c 1.662,0 3,-1.338 3,-3 V 19 c 0,-1.662 -1.338,-3 -3,-3 z"
-     style="fill:#a9cdf5;fill-opacity:1;stroke-width:3.61814;stroke-linecap:round;stroke-linejoin:round"
-     id="path1385"
-     sodipodi:nodetypes="sssssssss" />
+     id="rect1460"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+     d="M 34 17 C 32.892 17 32 17.892 32 19 L 32 31 C 32 32.108 32.892 33 34 33 L 50 33 C 51.108 33 52 32.108 52 31 L 52 19 C 52 17.892 51.108 17 50 17 L 34 17 z M 34 19 L 50 19 L 50 31 L 34 31 L 34 19 z " />
 </svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewbox="0 0 200 200"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-recent.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="7.7671261"
+     inkscape:cx="22.723978"
+     inkscape:cy="56.64901"
+     inkscape:window-width="1567"
+     inkscape:window-height="932"
+     inkscape:window-x="56"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4"
+     showguides="false" />
+  <path
+     d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
+     id="path2"
+     style="stroke-width:0.3;fill:#f8f8f8;fill-opacity:1" />
+  <path
+     id="rect924"
+     style="fill:#febd0c;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 14,16 c -1.108,0 -2,0.892 -2,2 v 26 c 0,3.324 2.676,6 6,6 H 29 V 48 H 18 c -2.216,0 -4,-1.784 -4,-4 V 18 h 14 v 2 c 0,1.104569 0.895431,2 2,2 h 20 v 4 h 2 v -4 c 0,-1.108 -0.892,-2 -2,-2 H 30 v -2 c 0,-1.104569 -0.895431,-2 -2,-2 z"
+     sodipodi:nodetypes="ssssccssccsscccsscsss" />
+  <path
+     id="path864"
+     style="fill:#febd0c;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     d="M 44 30 C 40.276374 30 36.990014 31.854171 35 34.685547 L 35 31 L 33 31 L 33 37 L 39 37 L 39 35 L 37.300781 35 C 38.948096 33.161304 41.337073 32 44 32 C 48.970563 32 53 36.029437 53 41 C 53 45.970563 48.970563 50 44 50 L 44 52 C 50.075132 52 55 47.075132 55 41 C 55 34.924868 50.075132 30 44 30 z M 43 34 L 43 42 L 48.628906 45.25 L 49.628906 43.517578 L 45 40.845703 L 45 34 L 43 34 z " />
+</svg>

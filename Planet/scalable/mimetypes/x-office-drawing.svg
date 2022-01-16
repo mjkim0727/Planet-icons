@@ -3,7 +3,7 @@
    viewbox="0 0 200 200"
    version="1.1"
    id="svg4"
-   sodipodi:docname="gnome-mime-application-vnd.oasis.opendocument.graphics.svg"
+   sodipodi:docname="application-drawing.svg"
    width="64"
    height="64"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
@@ -22,36 +22,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="12.078125"
-     inkscape:cx="31.958603"
-     inkscape:cy="32"
+     inkscape:zoom="8.5405241"
+     inkscape:cx="8.1962183"
+     inkscape:cy="26.63771"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     showguides="true" />
+     showguides="false" />
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
      style="stroke-width:0.3;fill:#f9c224;fill-opacity:1;stroke:none" />
-  <circle
-     style="opacity:1;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="path843"
-     cx="24"
-     cy="27"
-     r="12" />
-  <rect
-     style="opacity:1;fill:#fdf1ce;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect1079"
-     width="22"
-     height="22"
-     x="30"
-     y="20"
-     ry="3" />
   <path
-     id="path6249"
-     style="color:#000000;fill:#f58203;stroke:none;stroke-width:4.00017;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 33,25 a 2.0003749,2.0002 0 0 0 -1.752106,1.037109 l -11.000962,20 A 2.0003749,2.0002 0 0 0 21.999038,49 h 22.001924 a 2.0003749,2.0002 0 0 0 1.752106,-2.962891 l -11.000962,-20 A 2.0003749,2.0002 0 0 0 33,25 Z" />
+     id="path843"
+     style="opacity:1;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 24 15 C 17.372583 15 12 20.372583 12 27 C 12.01946 33.06274 16.55806 38.158609 22.578125 38.876953 L 23.728516 36.972656 C 18.322575 36.825854 14.012795 32.407919 14 27 C 14 21.477153 18.477153 17 24 17 C 25.822272 16.999805 27.609958 17.497548 29.169922 18.439453 L 30.373047 16.835938 C 28.463355 15.637405 26.25464 15.001122 24 15 z M 32 20 C 30.892 20 30 20.892 30 22 L 30 24 L 32 24 L 32 22 L 50 22 L 50 40 L 41.964844 40 L 33.857422 26.486328 A 1.0001 1.0001 0 0 0 33 26 A 1.0001 1.0001 0 0 0 32.142578 26.486328 L 20.142578 46.486328 A 1.0001 1.0001 0 0 0 21 48 L 45 48 A 1.0001 1.0001 0 0 0 45.857422 46.486328 L 43.166016 42 L 50 42 C 51.108 42 52 41.108 52 40 L 52 22 C 52 20.892 51.108 20 50 20 L 32 20 z M 33 28.943359 L 43.234375 46 L 22.765625 46 L 33 28.943359 z " />
 </svg>
