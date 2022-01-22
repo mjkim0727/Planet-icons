@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Planet Dark
-Inherits=OneUI-dark,Adwaita,hicolor
+Inherits=OneUI-dark,hicolor
 Comment=Samsung Experience Style Icon Theme
 
 #Directory List

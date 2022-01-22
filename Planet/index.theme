@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Planet
-Inherits=OneUI,Adwaita,hicolor
+Inherits=OneUI,hicolor
 Comment=Samsung Experience Style Icon Theme
 
 #Directory List
